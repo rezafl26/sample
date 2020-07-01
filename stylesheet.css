@@ -9,21 +9,3 @@
   width: 25%;
 }
 
-.lesson-icon{
-  position : relative;
-}
-
-.lesson-icon p{
-  position: absolute;
-  top: 90px;
-  width: 100%;
-  color: white;
-}
-
-.txt-contents{
-  width: 80%;
-  display: inline-block;
-  margin-top: 20px;
-  font-size: 15px;
-  color: #b3aeb5;
-}
