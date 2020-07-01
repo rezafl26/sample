@@ -1,2 +1,16 @@
+footer{
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+.lesson {
+  float: left;
+  width: 25%;
+}
 
 
